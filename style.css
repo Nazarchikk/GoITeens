@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    font-size: 15px;
+}
+ol{
+    color: red;
+}
+h2{
+    color: green;
+}
+ul{
+    color: rgb(158, 77, 77);
+}
+b{
+    color: red;
+    font-size: 20px;
+}
+i{
+    color: blue;
+    font-weight: bold;
+}
