@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    font-size: 15px;
+}
+ol{
+    color: red;
+}
+h2{
+    color: green;
+}
+ul{
+    color: rgb(158, 77, 77);
+}
+b{
+    color: red;
+    font-size: 20px;
+}
+b:hover{
+    color: hsla(0, 100%, 50%, 0.5);
+}
+i{
+    color: blue;
+    font-weight: bold;
+}
+i:hover{
+    color: royalblue;
+    font-size: 25px;
+    font-weight: lighter;
+}
